@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1463461631 source:c:\users\czadi\desktop\po\codeb\medievalwar\main.cpp
+	<iostream>
+
+1463452716 source:c:\users\czadi\desktop\po\codeb\medievalwar\src\karty.cpp
+	"Karty.h"
+	<iostream>
+
+1463453035 c:\users\czadi\desktop\po\codeb\medievalwar\include\karty.h
+	<iostream>
+
+1464681414 source:c:\users\czadi\desktop\medievalwar\main.cpp
+	<iostream>
+	"Gracz.h"
+	"Karty.h"
+
+1464682156 c:\users\czadi\desktop\medievalwar\include\gracz.h
+	<cstdio>
+	<vector>
+	"Karty.h"
+
+1464680499 c:\users\czadi\desktop\medievalwar\include\karty.h
+	<string>
+
+1464680651 source:c:\users\czadi\desktop\medievalwar\src\balista.cpp
+	"Balista.h"
+	"Karty.h"
+
+1464680651 c:\users\czadi\desktop\medievalwar\include\balista.h
+	"Karty.h"
+
+1464681482 source:c:\users\czadi\desktop\medievalwar\src\gracz.cpp
+	"Gracz.h"
+	"Piechur.h"
+	"Rycerz.h"
+	"Lucznik.h"
+	"Kusznik.h"
+	"Balista.h"
+	"Trebusz.h"
+	"Karty.h"
+	<vector>
+	<cstdio>
+	<iostream>
+
+1464680296 c:\users\czadi\desktop\medievalwar\include\piechur.h
+	"Karty.h"
+
+1464680802 c:\users\czadi\desktop\medievalwar\include\rycerz.h
+	"Karty.h"
+
+1464681157 c:\users\czadi\desktop\medievalwar\include\lucznik.h
+	"Karty.h"
+
+1464681139 c:\users\czadi\desktop\medievalwar\include\kusznik.h
+	"Karty.h"
+
+1464681036 c:\users\czadi\desktop\medievalwar\include\trebusz.h
+	"Karty.h"
+
+1464680296 source:c:\users\czadi\desktop\medievalwar\src\karty.cpp
+	"Karty.h"
+
+1464680962 source:c:\users\czadi\desktop\medievalwar\src\kusznik.cpp
+	"Kusznik.h"
+
+1464680883 source:c:\users\czadi\desktop\medievalwar\src\lucznik.cpp
+	"Lucznik.h"
+
+1464680296 source:c:\users\czadi\desktop\medievalwar\src\piechur.cpp
+	"Piechur.h"
+	<string>
+
+1464680802 source:c:\users\czadi\desktop\medievalwar\src\rycerz.cpp
+	"Rycerz.h"
+
+1464681036 source:c:\users\czadi\desktop\medievalwar\src\trebusz.cpp
+	"Trebusz.h"
+
